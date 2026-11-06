@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+**/.env
+**/*.env
+**/.venv/
+**/venv/
+**/__pycache__/
+**/*.py[cod]
+**/~$*
+app/logs/
+app/code/*.log
+app/data/*.db
+app/data/*.sqlite3
+app/data/*.sqlite3-*
